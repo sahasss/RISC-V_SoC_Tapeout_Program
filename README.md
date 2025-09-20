@@ -45,7 +45,7 @@ $ sudo apt install iverilog
 
 Once installed, verify the installation by running:
 
-![Iverilog Screenshot](screenshots/iverilog_screenshot.png)
+![Iverilog Screenshot](images/iverilog_download.png)
 
 It will print the Iverilog version to confirm that the installation was successful.
 
@@ -67,7 +67,7 @@ $ sudo apt install gtkwave
 
 Verify that GTKWave is installed
 
-![GTKWave Screenshot](screenshots/gtkwave_screenshot.png)
+![GTKWave Screenshot](images/gtkwave_download.png)
 
 ---
 
