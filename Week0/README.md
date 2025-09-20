@@ -22,7 +22,7 @@ $ sudo make install
 
 ### Step 2: Verify Yosys Installation
 
-![Yosys Screenshot](Week0/yosys_download.png)
+![Yosys Screenshot](yosys_download.png)
 
 If Yosys is correctly installed, it will display the version information.
 
